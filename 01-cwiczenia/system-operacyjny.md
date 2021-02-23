@@ -86,3 +86,6 @@ Przetestuj parametry sieci dla różnych typów wspieranych przez Twoje oprogram
 ### Ustawienia dla innego oprogramowania
 #### Docker
 https://docs.docker.com/network/#network-drivers
+
+#### VMware
+https://docs.vmware.com/en/VMware-Workstation-Player-for-Windows/16.0/com.vmware.player.win.using.doc/GUID-C82DCB68-2EFA-460A-A765-37225883337D.html
