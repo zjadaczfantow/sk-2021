@@ -89,6 +89,10 @@ Efekt
 
 Dlaczego? Jak? Co? :)
 
+```
+https://wiki.alpinelinux.org/wiki/Configure_Networking
+```
+
 ### Warto wiedzieć
 
 -------------------------
