@@ -1,3 +1,7 @@
+## Komunikacja osi/iso
+
+![osi-iso](osi-iso.png)
+
 ## Konfiguracja route
 
 
