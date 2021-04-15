@@ -4,11 +4,11 @@
 
 
 1. Z wykorzystaniem maszyny wirtualnej, zainstaluj SO oraz wypisz parametry konfiguracji IP tj:
-   * Adres
-   * Maska
-   * Adres bramy
-   * DNS 1
-   * DNS 2
+   * Adres 19.0.2.2
+   * Maska 255.255.255.0
+   * Adres bramy 10.0.2.2
+   * DNS 1 8.8.8.8
+   * DNS 2 1.1.1.1
     
     Powyższe parametry uzyskaj na wszystkich z wymienionych systemów
 
